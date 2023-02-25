@@ -7,7 +7,7 @@ kortstondige bronnen synthese voor de claim:
 
 Onderzoek uitgevoerd gebruik makend van publiek toegankelijke 
 Engelstalige primaire,secundaire en tertiaire bronnen gepubliceerd tussen 2016 en 2022.
-(standard cursory quantitative synthesis or "meta analysis")
+(cursory quantitative synthesis or "meta analysis")
 
 ## Waarom is gekozen voor quantitative synthese of meta-analyse?
 from https://en.wikipedia.org/wiki/Meta-analysis:
