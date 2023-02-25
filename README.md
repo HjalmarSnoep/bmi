@@ -19,11 +19,11 @@ het wordt beschouwd als een goede methode als er verschillende inzichten leven o
 veel onderzoek is gedaan.
 
 ## methodologie en belangwekkende bevindingen:
-Bij het op zoek gaan naat tertiaire en zelfs secundaire bronnen bleek al snel dat
-BMI zelf erg onder vuur staat als diagnostisch gereeedschap en er is een duidelijke tweedeling tussen voorstanders en tegenstanders.
-Er is daarom gekeken bij voorstanders en tegenstanders van BMI als diagnostich gereedschap als wel bij historisch neutrale bronnen.
+Bij het op zoek gaan naar tertiaire en zelfs secundaire bronnen bleek al snel dat
+BMI zelf erg onder vuur staat als diagnostisch gereeedschap en er een duidelijke polarisatie is.
+Er is daarom gekeken bij dit bron-type bij voorstanders en tegenstanders van BMI als diagnostich gereedschap als wel bij historisch neutrale bronnen.
 Er lijkt consensus over de waarde van BMI als vergelijkende metriek bij grootschalige studie onder homogene groepen.
-Er is wel zeer veel kritiek over het toepassen van BMI voor andere doeleinden.
+Er is veel kritiek over het toepassen van BMI voor andere doeleinden.
 
 Er is geen enkele aangetoonde relatie gevonden voor jonge mensen met laag BMI en psychische klachten.
 Belangrijk is aan te merken dat zelfs bij het vinden van een correlatie is er nog geen causatie aangetoond zou mogen worden geacht.
