@@ -9,7 +9,7 @@ Onderzoek uitgevoerd gebruik makend van publiek toegankelijke
 Engelstalige primaire,secundaire en tertiaire bronnen gepubliceerd tussen 2016 en 2022.
 (cursory quantitative synthesis or "meta analysis")
 
-## Waarom is gekozen voor quantitative synthese of meta-analyse?
+## Waarom is gekozen voor quantitatieve synthese of meta-analyse?
 from https://en.wikipedia.org/wiki/Meta-analysis:
 >   Meta-analyses can be performed when there are multiple scientific studies addressing the same question, 
 >   with each individual study reporting measurements that are expected to have some degree of error. 
