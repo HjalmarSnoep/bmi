@@ -1,9 +1,9 @@
 # bmi
 a cursory quantitative synthesis (in Dutch)
 
-# kortstondige bronnen synthese voor de claim:
+kortstondige bronnen synthese voor de claim:
 
-"Er is een (significante) link tussen geestelijke gezondheid en BMI in jonge mensen."
+# "Er is een (significante) link tussen geestelijke gezondheid en BMI in jonge mensen."
 
 Onderzoek uitgevoerd gebruik makend van publiek toegankelijke 
 Engelstalige primaire,secundaire en tertiaire bronnen gepubliceerd tussen 2016 en 2022.
