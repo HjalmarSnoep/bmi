@@ -16,7 +16,8 @@ from https://en.wikipedia.org/wiki/Meta-analysis:
 >   Meta-analytic results are considered the most trustworthy source of evidence by the evidence-based medicine literature.
 
 het wordt beschouwd als een goede methode als er verschillende inzichten leven op gebied van wetenschappelijke vragen waarover
-veel onderzoek is gedaan.
+veel onderzoek is gedaan. Quantitatieve synthese maakt onderscheid naar de betrouwbaarheid van de bron, maar
+sluit geen bronnen uit, waardoor misverstanden en verkeerde interpretaties sneller aan het licht komen.
 
 ## methodologie en belangwekkende bevindingen:
 Bij het op zoek gaan naar tertiaire en zelfs secundaire bronnen bleek al snel dat
