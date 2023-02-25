@@ -50,10 +50,12 @@ Onderzoek uitgevoerd 25 feb 2022 door Hjalmar Snoep
 ```
 
 ## Bronnen (totaal 8):
-
-tertiaire bronnen:  medicalnewstoday (neutraal over BMI), livestrong (pro BMI)
-secundaire bronnen: nhs national health service (tegen BMI) - NCBI (BMI neutraal) - National Center for Biotechnology Information
-primaire bronnen:   pubmed 
+|   	|   	|   	|
+|---	|---	|---	|
+| primaire bronnen:  	|  pubmed 	|   	
+| secundaire bronnen:  	|  nhs national health service (tegen BMI)  	|   NCBI (BMI neutraal) - National Center for Biotechnology Information 	|   	
+| tertiaire bronnen:  	|   medicalnewstoday (neutraal over BMI), 	|   livestrong (pro BMI) 	| 
+|---|---|
 
 
 
