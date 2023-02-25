@@ -1,7 +1,7 @@
 # bmi
-cursory quantitative synthesis
+a cursory quantitative synthesis (in Dutch)
 
-kortstondige bronnen synthese voor de claim:
+# kortstondige bronnen synthese voor de claim:
 
 "Er is een (significante) link tussen geestelijke gezondheid en BMI in jonge mensen."
 
