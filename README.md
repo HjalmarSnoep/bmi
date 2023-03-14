@@ -46,7 +46,7 @@ Belangrijk is wellicht aan te merken dat zelfs bij het vinden van een correlatie
 Bij voorstanders van BMI wordt duidelijk de caveat <20 jaar geplaatst. 
 BMI mag volgens voorstanders pas als significante metriek worden gezien vanaf 20 jaar en ouder.
 Wel is er  een enkel primair onderzoek gevonden waarin een link voor ouderen >65 aangetoond.
-In hetzelfde onderzoek staat specifiek dat dit _NIET_ geldt voor <65+.
+In hetzelfde onderzoek staat specifiek dat dit _NIET_ geldt voor <65. De patient in kwestie is <20 jaar oud.
 Gezien de eenduidige aard van de uitslag en de grote mate van polarisatie rondom het onderwerp BMI zelf
 wordt een uitgebreider onderzoek niet nodig geacht.
 
