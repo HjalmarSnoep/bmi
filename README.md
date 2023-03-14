@@ -126,6 +126,7 @@ Anemia. A person who is underweight is more likely to have low blood counts, kno
 7) https://www.livestrong.com/article/273015-health-risks-of-a-low-bmi/ (2019)
 
 >   A BMI of less than 18.5 is considered underweight. A low BMI is associated with health problems such as malnutrition, menstrual cycle irregularity and a heightened risk of depression and osteoporosis.
+Based loosely on original Korean research of (1692 men, 2334 women) aged 19 to 69 years 
 
 8) https://pubmed.ncbi.nlm.nih.gov/32603998/ 2020
 
