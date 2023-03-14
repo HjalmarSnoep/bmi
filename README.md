@@ -52,7 +52,7 @@ wordt een uitgebreider onderzoek niet nodig geacht.
 
 ## Conclusie:
 
-De claim is *niet voldoende gefundeerd* en owel caim als claimer moeten met uiterste omzichtigheid behandeld worden.
+De claim is *niet voldoende gefundeerd* en zowel caim als claimer moeten in de toekomst met de nodige omzichtigheid worden behandeld.
 
 
 ```
