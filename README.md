@@ -72,7 +72,7 @@ Onderzoek uitgevoerd 25 feb 2022 door Hjalmar Snoep
 ## literatuur verwijzingen.
 
 
-#### searched for: low BMI en (mental) health risks.. general BMI
+#### gezocht op: low BMI en (mental) health risks.. general BMI
 
 1) https://www.medicalnewstoday.com/articles/265215 (2022)
 Why BMI is inaccurate and misleading
