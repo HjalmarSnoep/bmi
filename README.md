@@ -127,7 +127,11 @@ Anemia. A person who is underweight is more likely to have low blood counts, kno
 
 >   A BMI of less than 18.5 is considered underweight. A low BMI is associated with health problems such as malnutrition, menstrual cycle irregularity and a heightened risk of *depression* and osteoporosis.
 
-Article seems to be based loosely on original Korean research of (1692 men, 2334 women) aged 19 to 69 years. Subject is 18.. the <20 rule from other sources seems to render this irrelevant. Also Subject is 18, while mean age of study
+Article seems to be based loosely on original Korean research of (1692 men, 2334 women) aged 19 to 69 years. Subject is 18.. the <20 rule from other sources seems to render this irrelevant. Also Subject is 18. A subsequent study of 2014 is titled
+Age-specific association between body mass index and depression https://pubmed.ncbi.nlm.nih.gov/28974741/
+it claims elderly are *less likely* to be depressed when underweight.. source 8 (2020) claims the opposit also in elderly... when studies are combined the significance dissappears.
+One might conclude younger people are more likely.. however source 8 specifically excludes under twenty.
+and states:  for young adults the estimates are statistically and economically insignificant.
 
 8) https://pubmed.ncbi.nlm.nih.gov/32603998/ 2020
 
