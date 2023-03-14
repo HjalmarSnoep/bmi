@@ -2,11 +2,21 @@
 
 a cursory quantitative synthesis (in Dutch)
 
-kortstondige bronnen synthese voor de claim:
+kortstondige, gewogen bronnen synthese voor de claim:
 
 # "Er is een (significante) link tussen geestelijke gezondheid en BMI in jonge mensen."
 
-Onderzoek uitgevoerd gebruik makend van publiek toegankelijke 
+Na het aantreffen van enige halsstarrigheid over dit onderwerp bij g.g.z. Almere, kon ik me toch niet voorstellen dat er voldoende nieuw onderzoek aan mijn aandacht zou zijn ontsnapt, dat de aangetroffen zekerheid
+waarmee deze gedurfde bewering werd gedaan zou kunnen verantwoorden rondom een eerder zo 
+controversieel onderwerp als BMI. De huisarts beaamde dit, echter geeft aan van zins te zijn de g.g.z. blindelings in haar aanbeveling te volgen.
+
+Bij eigen onderzoek is er er geen recente staving gevonden van deze bewering.
+Wel is er een mogelijke bron van een misverstand gevonden.
+
+Het voorstel is om deze bewering verder buiten beschouwing te laten en ons te richten
+op aanwijsbaar onderzoek boven meningen bij volgende verschillen van mening.
+
+Onderzoek uitgevoerd gebruik makend van uitsluitend publiek toegankelijke 
 Engelstalige primaire,secundaire en tertiaire bronnen gepubliceerd tussen 2016 en 2022.
 (cursory quantitative synthesis or "meta analysis")
 
