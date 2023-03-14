@@ -41,7 +41,7 @@ Er lijkt consensus over de waarde van BMI als vergelijkende metriek bij grootsch
 Er is veel kritiek over het toepassen van BMI voor andere doeleinden.
 
 *Er is geen enkele aangetoonde relatie gevonden voor jonge mensen met laag BMI en psychische klachten.*
-Belangrijk is wellicht aan te merken dat zelfs bij het vinden van een correlatie er nog geen causatie aangetoond zou mogen worden geacht.
+Belangrijk is wellicht aan te merken dat zelfs bij het vinden van een correlatie er nog geen causatie aangetoond zou mogen worden geacht. Dit zou echter grond kunnen zijn geweest voor een uitgebreider onderzoek
 
 Bij voorstanders van BMI wordt duidelijk de caveat <20 jaar geplaatst. 
 BMI mag volgens voorstanders pas als significante metriek worden gezien vanaf 20 jaar en ouder.
