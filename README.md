@@ -59,7 +59,7 @@ De claim is *niet voldoende gefundeerd* en owel caim als claimer moeten met uite
 Onderzoek uitgevoerd 25 feb 2022 door Hjalmar Snoep
 ```
 
-## Bronnen (totaal 8):
+## verzamelde bronnen (8):
 |   	|   	|   	|
 |---	|---	|---	|
 | primaire bronnen:  	|  pubmed 	|   	
