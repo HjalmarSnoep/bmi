@@ -38,7 +38,8 @@ Bij het op zoek gaan naar tertiaire en zelfs secundaire bronnen bleek al snel da
 BMI zelf erg onder vuur staat als diagnostisch gereeedschap en er een duidelijke polarisatie is.
 Er is daarom gekeken bij dit bron-type bij voorstanders en tegenstanders van BMI als diagnostich gereedschap als wel bij historisch neutrale bronnen.
 Er lijkt consensus over de waarde van BMI als vergelijkende metriek bij grootschalige studie onder homogene groepen.
-Er is veel kritiek over het toepassen van BMI voor andere doeleinden.
+Er is veel kritiek over het toepassen van BMI voor andere doeleinden. 
+Bevindingen van dit soort onderzoeken vooral op het gebied van diagnostiek in geestelijke gezondheid lopen ver uiteen en zijn zelfs tegengesteld.
 
 *Er is geen enkele aangetoonde relatie gevonden voor jonge mensen met laag BMI en psychische klachten.*
 Belangrijk is wellicht aan te merken dat zelfs bij het vinden van een correlatie er nog geen causatie aangetoond zou mogen worden geacht. Dit zou echter grond kunnen zijn geweest voor een uitgebreider onderzoek
